@@ -1,4 +1,4 @@
 pilquiy
 =======
 
-the default pilquiy repository
+The default pilquiy repository.

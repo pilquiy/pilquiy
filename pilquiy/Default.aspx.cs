@@ -30,7 +30,6 @@ namespace pilquiy
                     sb.Append("&nbsp;").Append(reader.GetString(1)).Append("<br/>");
                     sb.Append("&nbsp;").Append(reader.GetString(2)).Append("<br/>");        
                 }
-
             }
             testLabel.Text += sb.ToString();
         }
